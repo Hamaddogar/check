@@ -1,0 +1,11 @@
+git init
+git  status
+git add .( if you want to all file then use. otherwise use single name of your file)
+ git commit m " discription "( commit mean record)
+ for branch  create 
+ git checkout -b name of yor brach
+git branch
+git checkout branch
+git remot -v 
+git  remote add origin url
+gti push origin branchname  
